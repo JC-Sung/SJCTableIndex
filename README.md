@@ -2,6 +2,7 @@
 类似于微信通讯录的UITableView的索引
 
 ## 效果图：
+https://cdn.yehwang.com/image/return_apply/20201224/859c9fd9d37e8390c77c49e37b3ce856.jpg
 
 <div align=center><img width="375" height="667" src="https://cdn.yehwang.com/image/return_apply/20201224/859c9fd9d37e8390c77c49e37b3ce856.jpg"/></div> <div align=center></div>
 #
